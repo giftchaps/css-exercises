@@ -1,0 +1,27 @@
+.odd {
+    color: black;
+    background-color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+#two{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: blue;
+}
+ odd{
+    font-size: 35px;
+ }
+
+#four{
+    background-color:lawngreen;
+    font-family: Verdana, Geneva, DejaVu Sans, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+body{
+    background-color: antiquewhite;
+}
+
+
